@@ -26,4 +26,4 @@ This project features an Oracle-based Customer Support Database schema designed 
 
 * Run the **DDL script** to create the database schema.
 * Populate the database with sample data using the **Data Population Script**.
-* Use the **DML Script** to practice and test advanced SQL queries.
+* Use the **DML Script** to practice and test a variety of SQL queries.
