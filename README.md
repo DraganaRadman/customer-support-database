@@ -1,6 +1,6 @@
 ## Customer Support Database
 
-This project features an Oracle-based Customer Support Database schema designed for managing and tracking customer support activities. It encompasses essential elements such as customer information, support agents, departments, tickets, comments, ticket history, and attachments. The primary goal is to practice database architecture, DDL statements, and versatile SQL queries across multiple tables.
+This project features an Oracle-based Customer Support Database schema designed for managing and tracking customer support activities, using Oracle SQL Developer. It encompasses essential elements such as customer information, support agents, departments, tickets, comments, ticket history, and attachments. The primary goal is to practice database architecture, DDL statements, and versatile SQL queries across multiple tables.
 
 
 # Project Contents
